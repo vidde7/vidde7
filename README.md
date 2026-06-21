@@ -1,1 +1,6 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidde7&layout=compact&theme=radical)
+\`\`\`bash
+vidde@mint:~$ whoami
+> student / everyting / building things that probably don't need to exist
+vidde@mint:~$ ls projects/
+RETICLE-PyCrosshair/  godot-multiplayer-slutprojekt/  leetcode/
+\`\`\`
