@@ -1,1 +1,1 @@
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen)
+![Profile views](https://komarev.com/ghpvc/?username=vidde7&color=brightgreen)
