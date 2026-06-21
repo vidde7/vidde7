@@ -1,1 +1,9 @@
-![Profile views](https://komarev.com/ghpvc/?username=vidde7&color=brightgreen) ![Commits](https://img.shields.io/github/commit-activity/t/vidde7)
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/vidde7/count.svg" alt="Visitor's Count" />
+</div>
+
+<div align="center">
+  <p>Top Languages</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidde7&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
