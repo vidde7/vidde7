@@ -1,6 +1,1 @@
-\`\`\`bash
-vidde@mint:~$ whoami
-> student / everyting / building things that probably don't need to exist
-vidde@mint:~$ ls projects/
-RETICLE-PyCrosshair/  godot-multiplayer-slutprojekt/  leetcode/
-\`\`\`
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen)
