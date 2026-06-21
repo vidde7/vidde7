@@ -1,1 +1,1 @@
-![Profile views](https://komarev.com/ghpvc/?username=vidde7&color=brightgreen)
+![Profile views](https://komarev.com/ghpvc/?username=vidde7&color=brightgreen) ![Commits](https://img.shields.io/github/commit-activity/t/YOUR_USERNAME/PyCrosshair)
